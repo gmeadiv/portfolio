@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm George Mead. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome.",
+      "description": "I'm George Mead. After dropping out of high school, I joined the Army. While serving active-duty, I obtained a bachelor's degree in business and then left the military to go to Boston College Law School. In Philadelphia's district attorney's office, I prosecuted felonies ranging from kidnappings and armed robberies to bar fights. I then worked for Boston College's Innocence Project representing a client who, at only eighteen, had been wrongfully incarcerated for three deaths, one of whom was his best friend. (While I've been at Code Fellows, the Project just filed his new trial motion!) Although I remain passionate about criminal justice, I realized I wanted a career that allowed me to be more creative while remaining intellectually engaging. So, I came to Code Fellows to become a software developer. Front-end design, especially making apps intuitive for casual users, is what most attracted me to this career. I am experienced in HTML, CSS, and JavaScript, including React and Bootstrap.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,53 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project",
+        "startDate": "2021",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -75,6 +31,50 @@
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "The Horned Beasts of Springfield",
+        "startDate": "2021",
+        "description": "One of my favorite projects and definitely the most technical. Love working in React. Once I was able to grasp the parent-child relationship between components, everything kind of fell together.",
+        "images": [
+          "images/candh.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://gmeadiv.github.io/horned_beast/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "The House of Hell",
+        "startDate": "2021",
+        "description": "Final project for Code 201. I had the most fun working on this. I was responsible for almost all of the front-end stuff, including the CSS for all the comic book panels and images. I also wrote the narrative for the game.",
+        "images": [
+          "images/hellhouse.png",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://gmeadiv.github.io/House_of_Hell/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
