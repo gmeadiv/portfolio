@@ -1,3 +1,3 @@
-# [Live site](https://portfolio-meadg.netlify.app/)
+# [Go to Live Site](https://portfolio-meadg.netlify.app/)
 
 Make it your own! 
