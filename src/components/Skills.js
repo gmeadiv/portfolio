@@ -25,6 +25,7 @@ class Skills extends Component {
     }
 
     return (
+      console.log(skills),
       <section id="skills">
         <div className="col-md-12">
           <div className="col-md-12">
