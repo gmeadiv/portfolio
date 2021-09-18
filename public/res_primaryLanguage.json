@@ -15,7 +15,7 @@
         "startDate": "2021",
         "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/ferry.jpeg",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
@@ -81,37 +81,21 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Boston College Innocence Program",
+        "title": "Student Attorney",
+        "years": "09.2018 - 05.2020",
         "mainTech": [
-          "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Philadelphia District Attorney",
+        "title": "Law Clerk",
+        "years": "05.2018 - 09.2018",
         "mainTech": [
-          "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
         ]
       }
     ]

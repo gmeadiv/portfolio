@@ -37,6 +37,7 @@ class Header extends Component {
 
     return (
       <header id="home" style={{ height: window.innerHeight - 100, display: 'block' }}>
+        <img src="images/mountain.jpeg" id="mountain" alt="mountain background" style={{zIndex: -1, objectFit: "cover", }}/>
         <a href="https://github.com/codefellows/cra-template-react-portfolio" target="_blank" rel="noreferrer" className="github-corner" aria-label="View source on GitHub">
           <svg width="90" height="90" viewBox="0 0 250 250" style={{ fill: '#151513', color: '#fff', position: 'absolute', top: 0, border: 0, left: 0, transform: 'scale(-1, 1)', zIndex: 9999 }} aria-hidden="true">
             <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -98,7 +99,7 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner" style={{height: '100%'}}>
+        <div className="row aligner" style={{height: '100%', zIndex: 1}}>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
